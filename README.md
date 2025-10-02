@@ -10,5 +10,5 @@ A passionate Frontend Developer | React Enthusiast | AI Enthusiast
 
 ## 📫 How to reach me
 - Email: atillatrisakti01@gmail.com  
-- LinkedIn: [linkedin.com/in/atilla-silva-trisakti](https://linkedin.com/in/atilla-silva-trisakti)
+- LinkedIn: [linkedin.com/in/atilla-silva-trisakti](https://www.linkedin.com/in/atilla-silva-t-415821209/)
 
