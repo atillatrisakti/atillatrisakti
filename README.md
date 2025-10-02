@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Atilla+Silva+T;A+passionate+Frontend+Developer+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Atilla+Silva+T;A+passionate+Frontend+Developer+%7C+React+Enthusiast+%7C+AI+Explorer)](https://git.io/typing-svg)
 
 ![Atilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=atillatrisakti&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)
 
