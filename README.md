@@ -13,10 +13,6 @@ I am a Quality Assurance professional with a background in Web Development. My t
 - **Tools:** Jira, TestRail, Git, Trello
 - **AI Integration:** Gemini API for Intelligent Testing Solutions
 
-### 📊 GitHub Stats
-![Atilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=atillatrisakti&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atillatrisakti&layout=compact&theme=tokyonight)
-
 ### 🚀 Featured Projects
 - **[SQA Automation Final Project - JuaraCoding](https://github.com/atillatrisakti/Final-Project-SQA-Team3)** – Final project from the intensive SQA Automation Bootcamp. This project demonstrates the implementation of a robust automated testing framework using **Selenium with Java and TestNG**. It covers comprehensive test cases to ensure web application quality and reliability. *(Catatan: Ganti URL dengan link repository GitHub aslimu).*
 - **[FinWise (AI Financial Advisor)](https://github.com/atillatrisakti/final-project-chatbot)** – An interactive AI-powered chatbot built with Streamlit and Gemini API. While built as a developer project, it showcases my ability to integrate complex AI APIs—a skill I now apply to building intelligent automated testing frameworks.
